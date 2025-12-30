@@ -1,0 +1,12 @@
+# Ignore large datasets
+*.csv
+
+# Ignore virtual environment
+venv/
+
+# Ignore model files
+*.pkl
+
+# Python cache
+__pycache__/
+
